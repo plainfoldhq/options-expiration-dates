@@ -6,6 +6,8 @@ Free CSV of US equity options expiration dates and related dates for every month
 - **VIX settlement dates**: the Wednesday 30 days before the third Friday of the following month; if that Friday is a holiday, 30 days before the business day preceding it; if the result is a holiday, the business day before (for example the settlement in June 2024: Tuesday June 18, because June 19 was Juneteenth). VIX futures and standard monthly VIX options; weekly VIX options are not included. From 2005 (early-year dates follow today's rule and were not checked against Cboe notices).
 - **IMM dates**: the third Wednesday of March, June, September and December (not holiday-adjusted).
 
+Browse the dates by year on the reference site: [options expiration dates 2026-2028](https://plainfoldhq.github.io/options-expiration-dates/) and [quad witching dates 2025-2035](https://plainfoldhq.github.io/quad-witching-dates/).
+
 ## File
 
 `data/expirations_2000_2050.csv` (1,368 rows):
