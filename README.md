@@ -47,7 +47,7 @@ pd.read_csv(url).query("type == 'vix_settlement' and holiday_adjusted == 1")
 
 ## More calendars
 
-US business days, NYSE holidays and early closes 1971-2050: [us-federal-calendar](https://github.com/plainfoldhq/us-federal-calendar) (`pip install usbizdays`). World stock exchange holidays: [stock-exchange-holidays](https://github.com/plainfoldhq/stock-exchange-holidays). FX settlement holidays: [fx-settlement-holidays](https://github.com/plainfoldhq/fx-settlement-holidays). All Plainfold data packs in one yearly plan: [All-Access](https://buy.polar.sh/polar_cl_xydfuofU72fdp6xSOHFtihAuniUFagYOwR9zf2M03Gl). Reference pages: [plainfoldhq.github.io](https://plainfoldhq.github.io/).
+US business days, NYSE holidays and early closes 1971-2050: [us-federal-calendar](https://github.com/plainfoldhq/us-federal-calendar) (`pip install usbizdays`). World stock exchange holidays: [stock-exchange-holidays](https://github.com/plainfoldhq/stock-exchange-holidays). FX settlement holidays: [fx-settlement-holidays](https://github.com/plainfoldhq/fx-settlement-holidays). All Plainfold data packs in one yearly plan: [All-Access](https://buy.polar.sh/polar_cl_xydfuofU72fdp6xSOHFtihAuniUFagYOwR9zf2M03Gl?utm_source=github&utm_medium=readme&utm_campaign=ALLACCESS&utm_content=options-expiration-dates). Reference pages: [plainfoldhq.github.io](https://plainfoldhq.github.io/).
 
 ## License
 
